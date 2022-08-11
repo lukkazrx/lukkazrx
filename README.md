@@ -1,10 +1,8 @@
 # Olá! Seja Bem-Vindo!
 
--🔥 Sou Desenvolvedor Front-End! <br>
+-🔥 Estou estudando pra ser Desenvolvedor Front-End!
 
-
-
--📚 Estou cursando Análise e Desenvolvimento de Sistemas
+-📚 Estou cursando Análise e Desenvolvimento de Sistemas.
   
 -🔨 Meu portifólio esta disponível em [🚨 Portifólio em Construção 🚨]
   
