@@ -1,4 +1,4 @@
-# Olá! Seja Bem-Vindo!
+# 👋 Olá! Seja Bem-Vindo!
 
 -🔥 Estou estudando pra ser Desenvolvedor!
 
