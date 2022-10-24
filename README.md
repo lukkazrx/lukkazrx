@@ -4,7 +4,7 @@
 
 -📚 Estou cursando Análise e Desenvolvimento de Sistemas no [Unilasalle polo Canoas](https://www.unilasalle.edu.br/vestibular/canoas).
   
--🔨 Meu portifólio está disponível no [Data Science with Python](https://lukkazrx.github.io/portifolio/)
+-🔨 Meu portifólio está disponível no [Estagiário em Data Science com Python](https://lukkazrx.github.io/portfolio/)
   
 ##  &nbsp;💡Tecnologias que utilizo
 
